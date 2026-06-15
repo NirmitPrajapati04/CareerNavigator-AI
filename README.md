@@ -1,6 +1,6 @@
 # CareerNavigator AI
 
-## Live Website
+# Live Website
 https://web-asset-manager--nirmitpra.replit.app/
 
 ## Project Description
